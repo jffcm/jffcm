@@ -1,4 +1,4 @@
-## Hello, I'm João Francisco 👋. 
+## Hello, I'm João Francisco 👋.
 
 ![followers](https://img.shields.io/github/followers/jffcm?style=social)
 ![stars](https://img.shields.io/github/stars/jffcm?style=social)
